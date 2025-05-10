@@ -6,4 +6,4 @@ along with tools such as machine learning and data visualization, to uncover pat
 correlations within data. They play a crucial role in informing decision-making processes across 
 industries, from business and healthcare to finance and technology. By harnessing the power of data, 
 data science facilitates predictive modeling, optimization, and the development of data-driven 
-strategies to address real-world challenges and drive innovation.
+strategies to address real-world challenges and drive innovation.

@@ -10,4 +10,4 @@ and science, among others, to uncover hidden patterns, predict
 future outcomes, optimize processes, and drive strategic 
 decision-making. It relies heavily on mathematical and statistical 
 principles, as well as computational tools and technologies, to 
-derive actionable insights from complex datasets.
+derive actionable insights from complex datasets.

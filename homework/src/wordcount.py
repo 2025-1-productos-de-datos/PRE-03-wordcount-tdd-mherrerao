@@ -1,7 +1,3 @@
-# Ejemplo del caso de uso:
-# python3 -m homework --input data/input --output data/output
-
-
 from homework.src._internals.parse_args import parse_args
 from homework.src._internals.read_all_lines import read_all_lines
 from homework.src._internals.count_words import count_words
